@@ -1,4 +1,4 @@
-# Implementada resolução do Exercício Reflexão
+# Resolução do Exercício Reflexão
 
 ## Exercício Sobre Reflexão
 
